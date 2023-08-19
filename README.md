@@ -1,1 +1,1 @@
-# Gitfinder
+# GitFinder
